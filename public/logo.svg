@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 220" role="img" aria-label="SPEED logo">
+  <rect width="820" height="220" fill="none"/>
+  <g fill="#f9151f" transform="translate(24 24)">
+    <path d="M10 150 44 74l24 34-22 48h40l46-104h54L118 196H34Z"/>
+    <path d="M170 196 236 52h66l42 60 26-60h62L366 196h-44l-48-66-30 66Z"/>
+    <path d="M422 52h162l-22 48h-96l-14 30h94l-22 46h-94l-14 30h102l22 42H356l66-146Z" transform="translate(18 -28) scale(.9)"/>
+    <path d="M558 52h162l-22 48h-96l-14 30h94l-22 46h-94l-14 30h102l22 42H492l66-146Z" transform="translate(18 -28) scale(.9)"/>
+    <path d="M676 52h118l-66 144h-118l66-144Zm54 46h-36l-24 52h36l24-52Z"/>
+  </g>
+</svg>
